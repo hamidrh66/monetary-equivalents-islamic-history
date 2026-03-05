@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Monetary Information Extraction Pipeline for Arabic Historical Texts"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Hakimi"
+    given-names: "Hamid Reza"
+    affiliation: "University of Hamburg"
+    orcid: "https://orcid.org/0009-0007-2213-6549"
+version: 1.0.0
+date-released: 2026-02-22
+license: MIT
+repository-code: "https://github.com/hamidrh66/monetary-equivalents-islamic-history.git"
+abstract: >
+  Manifest-driven batch-processing pipeline for extracting structured
+  monetary information from Arabic premodern historical texts using
+  JSON Schema–constrained large language model outputs.
+keywords:
+  - Digital Humanities
+  - Economic History
+  - Islamic History
+  - Natural Language Processing
+  - Large Language Models
+  - Information Extraction

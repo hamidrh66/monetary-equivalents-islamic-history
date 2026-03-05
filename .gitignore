@@ -1,0 +1,15 @@
+# pipeline outputs
+outputs/
+chunks/
+batch_work/
+test_run/
+manifest.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

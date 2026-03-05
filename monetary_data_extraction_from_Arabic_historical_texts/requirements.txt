@@ -1,0 +1,1 @@
+openai>=1.0.0 jsonschema>=4.0.0 tqdm>=4.0.0
