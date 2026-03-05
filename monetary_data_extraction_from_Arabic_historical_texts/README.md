@@ -1,5 +1,7 @@
 # Monetary Information Extraction from Arabic Historical Texts
 
+[![DOI](https://zenodo.org/badge/1173369563.svg)](https://doi.org/10.5281/zenodo.18874976)
+
 ## Dissertation Context
 
 This software was developed as part of the PhD dissertation:

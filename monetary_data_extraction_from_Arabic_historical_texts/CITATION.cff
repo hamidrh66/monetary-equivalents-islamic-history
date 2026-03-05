@@ -10,7 +10,10 @@ authors:
 version: 1.0.0
 date-released: 2026-02-22
 license: MIT
-repository-code: "https://github.com/hamidrh66/monetary-equivalents-islamic-history.git"
+repository-code: "https://github.com/hamidrh66/monetary-equivalents-islamic-history/tree/v1.0.0/monetary_data_extraction_from_Arabic_historical_texts"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18874977
 abstract: >
   Manifest-driven batch-processing pipeline for extracting structured
   monetary information from Arabic premodern historical texts using

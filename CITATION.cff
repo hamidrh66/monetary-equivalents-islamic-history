@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Code for: Monetary Equivalents in Premodern Islamic Historical and Biographical Texts (1–1000 AH / 600–1600 CE): Algorithmic Analysis into Economic History"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: Hakimi
+    given-names: Hamid Reza
+    affiliation: University of Hamburg
+    orcid: https://orcid.org/0009-0007-2213-6549
+
+abstract: >
+  This repository contains code developed for the PhD dissertation
+  "Monetary Equivalents in Premodern Islamic Historical and Biographical
+  Texts (1–1000 AH / 600–1600 CE): Algorithmic Analysis into Economic History"
+  (University of Hamburg). The repository includes computational methods
+  for extracting, processing, and analyzing monetary information from
+  Arabic historical and biographical texts using large language models,
+  structured output schemas, and corpus-scale batch processing pipelines.
+
+keywords:
+  - Digital Humanities
+  - Economic History
+  - Islamic History
+  - Arabic Historical Texts
+  - Natural Language Processing
+  - Large Language Models
+  - Information Extraction
+
+license: MIT
+
+repository-code: "https://github.com/hamidrh66/monetary-equivalents-islamic-history"
+
+version: 1.0.0
+date-released: 2026
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18874976
