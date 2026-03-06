@@ -1,12 +1,13 @@
 # Dissertation Code Repository
 
+[![DOI](https://zenodo.org/badge/1173369563.svg)](https://doi.org/10.5281/zenodo.18874976)
+
 This repository contains computational methods developed for the PhD dissertation:
 
-Hamid Reza Hakimi
+**Hamid Reza Hakimi**
 University of Hamburg
 
-Monetary Equivalents in Premodern Islamic Historical and Biographical Texts
-(1–1000 AH / 600–1600 CE): Algorithmic Analysis into Economic History
+*Monetary Equivalents in Premodern Islamic Historical and Biographical Texts (1–1000 AH/600–1600 CE): Algorithmic Analysis into Economic History*
 
 The repository collects scripts used to extract, process, and analyze monetary
 information from Arabic historical and biographical texts.
